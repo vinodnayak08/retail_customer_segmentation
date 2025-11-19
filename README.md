@@ -2,7 +2,7 @@
 
 ## Development of segmentation and customer value framework for retail loyalty programs
 
-*Problem statement:*
+_Problem statement:_
 This case study is about a Superstore which caters to a vast variety of customers. Superstore’s manager has noticed that there are diminishing returns from the existing marketing strategies. Sales from the last 2 quarters have hit a plateau which has started to concern the store manager.
 Store’s usual marketing campaigns includes unmonitored and untargeted approach which in the last quarter incurred some losses due to which the store manager started to look for areas of improvement. He found that the mass effectiveness of mass campaigns is very low as the cost is too high. The store already has an analytics team which has been collecting household level data from customers in the loyalty program.
 As a data scientist, the manager has tasked you with identifying customers with similar behavior in the loyalty program. The goal of this analysis is to segment customers with similar behavior and list down their behavioral traits. Basis on the profile of every cluster you have to create campaigns which are likely to generate more revenue.
